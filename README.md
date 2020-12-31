@@ -1,2 +1,2 @@
-# RDP
-Recursive Descent Parser source files.
+# Limited Functionality C Recursive Descent Parser
+
