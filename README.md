@@ -1,5 +1,5 @@
 # Limited Functionality C Recursive Descent Parser
-This project is an implementation of a predictive recursive descent parser for a version of C with limited functionality. It is broken up into four main project files: lexer.ml, parser.ml, eval.ml, and compiler.ml. Most of the source code was written as a part of a project for Professor Anwar Mamat's CMSC330 Organization of Programming Languages course at the University of Maryland, College Park.
+This project is an implementation of a predictive recursive descent parser for a version of C with limited functionality. It is broken up into four main project files: lexer.ml, parser.ml, eval.ml, and compiler.ml. Most of the source code was written as a part of a university project.
 
 I will first describe each main .ml file and what they do for the project as a whole, but there is a section at the bottom just demonstrating functionality.
 ## lexer.ml 
